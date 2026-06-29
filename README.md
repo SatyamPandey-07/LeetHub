@@ -17,8 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0002-add-two-numbers) |
+| [0223-rectangle-area](https://github.com/SatyamPandey-07/LeetHub/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0002-add-two-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/SatyamPandey-07/LeetHub/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
