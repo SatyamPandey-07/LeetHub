@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SatyamPandey-07/LeetHub/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamPandey-07/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamPandey-07/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
