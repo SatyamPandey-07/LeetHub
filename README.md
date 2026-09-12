@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SatyamPandey-07/LeetHub/tree/master/0012-integer-to-roman) |
+| [0151-reverse-words-in-a-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SatyamPandey-07/LeetHub/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
