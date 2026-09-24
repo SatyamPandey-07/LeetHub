@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SatyamPandey-07/LeetHub/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SatyamPandey-07/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamPandey-07/LeetHub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/SatyamPandey-07/LeetHub/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SatyamPandey-07/LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SatyamPandey-07/LeetHub/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SatyamPandey-07/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SatyamPandey-07/LeetHub/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamPandey-07/LeetHub/tree/master/3867-sum-of-gcd-of-formed-pairs) |
