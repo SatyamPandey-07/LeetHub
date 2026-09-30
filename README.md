@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SatyamPandey-07/LeetHub/tree/master/1927-sum-game) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -398,5 +400,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyamPandey-07/LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
