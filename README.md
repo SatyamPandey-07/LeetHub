@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/0696-count-binary-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamPandey-07/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1406-stone-game-iii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SatyamPandey-07/LeetHub/tree/master/1927-sum-game) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyamPandey-07/LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
