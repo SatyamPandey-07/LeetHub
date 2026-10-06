@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SatyamPandey-07/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SatyamPandey-07/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/SatyamPandey-07/LeetHub/tree/master/1927-sum-game) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SatyamPandey-07/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SatyamPandey-07/LeetHub/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyamPandey-07/LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
