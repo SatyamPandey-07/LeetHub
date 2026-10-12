@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SatyamPandey-07/LeetHub/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SatyamPandey-07/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SatyamPandey-07/LeetHub/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SatyamPandey-07/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SatyamPandey-07/LeetHub/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SatyamPandey-07/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SatyamPandey-07/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SatyamPandey-07/LeetHub/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SatyamPandey-07/LeetHub/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SatyamPandey-07/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SatyamPandey-07/LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SatyamPandey-07/LeetHub/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SatyamPandey-07/LeetHub/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SatyamPandey-07/LeetHub/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SatyamPandey-07/LeetHub/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SatyamPandey-07/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SatyamPandey-07/LeetHub/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SatyamPandey-07/LeetHub/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyamPandey-07/LeetHub/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SatyamPandey-07/LeetHub/tree/master/3568-minimum-moves-to-clean-the-classroom) |
