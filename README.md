@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SatyamPandey-07/LeetHub/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/SatyamPandey-07/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/SatyamPandey-07/LeetHub/tree/master/0835-image-overlap) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/SatyamPandey-07/LeetHub/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/SatyamPandey-07/LeetHub/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SatyamPandey-07/LeetHub/tree/master/1301-number-of-paths-with-max-score) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SatyamPandey-07/LeetHub/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SatyamPandey-07/LeetHub/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SatyamPandey-07/LeetHub/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
