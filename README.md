@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SatyamPandey-07/LeetHub/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/SatyamPandey-07/LeetHub/tree/master/0835-image-overlap) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/SatyamPandey-07/LeetHub/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/SatyamPandey-07/LeetHub/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/3348-smallest-divisible-digit-product-ii) |
