@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SatyamPandey-07/LeetHub/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SatyamPandey-07/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SatyamPandey-07/LeetHub/tree/master/0054-spiral-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/SatyamPandey-07/LeetHub/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1140-stone-game-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/SatyamPandey-07/LeetHub/tree/master/0012-integer-to-roman) |
 | [0223-rectangle-area](https://github.com/SatyamPandey-07/LeetHub/tree/master/0223-rectangle-area) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SatyamPandey-07/LeetHub/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1140-stone-game-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SatyamPandey-07/LeetHub/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/SatyamPandey-07/LeetHub/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SatyamPandey-07/LeetHub/tree/master/1288-remove-covered-intervals) |
